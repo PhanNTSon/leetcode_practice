@@ -1,5 +1,5 @@
 /*
-Problem:https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/?envType=study-plan-v2&envId=top-interview-150
+Problem:https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/?envType=study-plan-v2&envId=top-interview-150
 
 */
 /*
@@ -8,12 +8,14 @@ Author: Minikie - Phan NT Son
 #include <iostream>
 #include <vector>
 using namespace std;
+
 class Solution {
     public:
-        int removeDuplicates(vector<int>& nums) {
+        int maxProfit(vector<int>& prices) {
             
         }
     };
+
 int main()
 {
     // Solution s;
