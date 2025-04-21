@@ -1,21 +1,13 @@
 /*
 Problem:https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/?envType=study-plan-v2&envId=top-interview-150
-
+Explain Solution:
 */
 /*
 Author: Minikie - Phan NT Son
 */
 #include <iostream>
-#include <vector>
+
 using namespace std;
-
-class Solution {
-    public:
-        int maxProfit(vector<int>& prices) {
-            
-        }
-    };
-
 int main()
 {
     // Solution s;
