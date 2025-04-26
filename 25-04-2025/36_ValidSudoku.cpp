@@ -12,6 +12,7 @@ class Solution
 public:
     bool isValidSudoku(vector<vector<char>> &board)
     {
+        return true;
     }
 };
 int main()
@@ -19,6 +20,12 @@ int main()
     Solution s;
     while (true)
     {
+        int t = 0;
+        for (int i = 0; i < 10; i++)
+        {
+            t += i;
+        }
+        cout << t;
         char x;
         cout << "Continue ? Y/N:";
         cin >> x;
