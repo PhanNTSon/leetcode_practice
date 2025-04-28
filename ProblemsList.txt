@@ -1,0 +1,23 @@
+DP practice:
+70. Climbing Stairs | Easy | Basic DP recursion/memoization
+198. House Robber | Medium | 1D DP optimization
+322. Coin Change | Medium | 1D DP, minimum coins
+300. Longest Increasing Subsequence | Medium | 1D DP (also optimized with binary search later)
+5. Longest Palindromic Substring | Medium | 2D DP, substring tricks
+64. Minimum Path Sum | Medium | 2D DP, classic grid DP
+
+Greedy practice:
+455. Assign Cookies | Easy | Sort + Greedy
+605. Can Place Flowers | Easy | Greedy placement
+122. Best Time to Buy and Sell Stock II | Easy | Greedy local profit
+402. Remove K Digits | Medium | Stack + Greedy
+134. Gas Station | Medium | Greedy one-pass analysis
+406. Queue Reconstruction by Height | Medium | Greedy + sorting
+
+Backtrackin practice:
+78. Subsets | Medium | Basic backtrack tree
+46. Permutations | Medium | Backtrack with visited
+77. Combinations | Medium | Simple backtracking
+131. Palindrome Partitioning | Medium | Backtracking with validation
+39. Combination Sum | Medium | Backtracking with choices
+17. Letter Combinations of a Phone Number | Medium | Classic backtracking (you just did!)
