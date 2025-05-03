@@ -12,7 +12,6 @@ Greedy practice:
 406. Queue Reconstruction by Height | Medium | Greedy + sorting
 
 Backtrackin practice:
-78. Subsets | Medium | Basic backtrack tree
 46. Permutations | Medium | Backtrack with visited
 77. Combinations | Medium | Simple backtracking
 131. Palindrome Partitioning | Medium | Backtracking with validation
