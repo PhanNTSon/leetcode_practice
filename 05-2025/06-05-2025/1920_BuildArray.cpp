@@ -10,8 +10,19 @@ using namespace std;
 class Solution
 {
 public:
+    /*
+    Explain Solution:
+        Follow as instruction in problem. No brain needed.
+    */
     vector<int> buildArray(vector<int> &nums)
     {
+        vector<int> ans(nums.size());
+        int c = 0;
+        for (int i = 0; i < nums.size(); i++)
+        {
+            ans[i] = nums[nums[i]];
+        }
+        return ans;
     }
 };
 int main()
@@ -19,6 +30,20 @@ int main()
     Solution s;
     while (true)
     {
+        int n;
+        cin >> n;
+        vector<int> nums(n);
+        cout << "Nums: \n";
+        for (int i = 0; i < n; i++)
+        {
+            cin >> nums[i];
+        }
+        cout << "Answer: \n";
+        vector<int> ans = s.buildArray(nums);
+        for (int i : ans)
+        {
+            cout << i << ", ";
+        }
         char x;
         cout << "Continue ? Y/N:";
         cin >> x;
