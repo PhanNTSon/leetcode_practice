@@ -5,7 +5,6 @@ DP practice:
 64. Minimum Path Sum | Medium | 2D DP, classic grid DP
 
 Greedy practice:
-605. Can Place Flowers | Easy | Greedy placement
 122. Best Time to Buy and Sell Stock II | Easy | Greedy local profit
 402. Remove K Digits | Medium | Stack + Greedy
 134. Gas Station | Medium | Greedy one-pass analysis
