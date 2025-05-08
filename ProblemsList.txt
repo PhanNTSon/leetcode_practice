@@ -5,13 +5,11 @@ DP practice:
 64. Minimum Path Sum | Medium | 2D DP, classic grid DP
 
 Greedy practice:
-122. Best Time to Buy and Sell Stock II | Easy | Greedy local profit
 402. Remove K Digits | Medium | Stack + Greedy
 134. Gas Station | Medium | Greedy one-pass analysis
 406. Queue Reconstruction by Height | Medium | Greedy + sorting
 
 Backtrackin practice:
-46. Permutations | Medium | Backtrack with visited
 77. Combinations | Medium | Simple backtracking
 131. Palindrome Partitioning | Medium | Backtracking with validation
 39. Combination Sum | Medium | Backtracking with choices
