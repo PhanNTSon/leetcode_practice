@@ -9,7 +9,6 @@ Greedy practice:
 406. Queue Reconstruction by Height | Medium | Greedy + sorting
 
 Backtrackin practice:
-77. Combinations | Medium | Simple backtracking
 131. Palindrome Partitioning | Medium | Backtracking with validation
 39. Combination Sum | Medium | Backtracking with choices
 17. Letter Combinations of a Phone Number | Medium | Classic backtracking (you just did!)
